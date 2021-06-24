@@ -1,2 +1,2 @@
 # PHP-OOP
-Learn Object-Oriented Programming at PZN
+Learning Object-Oriented Programming at PZN
